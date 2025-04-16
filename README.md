@@ -31,7 +31,7 @@
 ### 🥗 Calorie Tracker — PWA-приложение
 > Счётчик калорий с Google Login и Firebase Firestore  
 **Стек:** React, Tailwind, Firebase  
-📎 [Live](https://calorie-tracker.vercel.app) | [Код](https://github.com/Zhake007/calorie-tracker)
+📎 [Live](https://calorie-tracker-zhakes-projects-fce102bf.vercel.app/) | [Код](https://github.com/Zhake007/calorie-tracker)
 
 ---
 
