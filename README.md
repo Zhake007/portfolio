@@ -52,7 +52,7 @@
 
 ## 📬 Контакты
 
-- Telegram: [@Zhake007](https://t.me/Zhake007)  
+- Telegram: [@zhakenti07](https://t.me/zhakenti07)  
 - GitHub: [github.com/Zhake007](https://github.com/Zhake007)
 
 ---
